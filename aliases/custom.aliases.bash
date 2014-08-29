@@ -1,0 +1,1 @@
+alias ci='ping ya.ru'
