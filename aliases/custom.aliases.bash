@@ -1,2 +1,5 @@
 alias ci='ping ya.ru'
 alias e='subl'
+alias o='open'
+alias p='cd ~/projects'
+alias t='cd ~/tmp'
